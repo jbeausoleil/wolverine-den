@@ -1,0 +1,13 @@
+# Page Ideas
+- Current Week
+- Current Season
+- Past Seasons
+    - Yearly Breakout
+
+
+# Models
+1. Blog Posts
+2. Comments
+3. Registration for Weekly Emails
+4. Weekly Predictions
+5. Player Model
